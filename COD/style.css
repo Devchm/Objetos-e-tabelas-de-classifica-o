@@ -1,0 +1,46 @@
+* {
+ text-align: center;
+ 
+}
+
+body {
+  
+   background-image: url("https://store-images.s-microsoft.com/image/apps.5980.13510798887669283.9f4cd29a-ecef-4566-87f3-692bc32ff679.306d08ab-fe63-4b65-811e-86c9cb091f28?mode=scale&q=90&h=1080&w=1920");
+
+   
+   background-repeat: no-repeat;
+  
+}
+
+caption {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+table {
+  
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th,
+tr,
+td {
+  border: solid 1px rgb(16, 1, 1);
+  color: black;
+}
+
+section {
+  width: 200px;
+  height: 200px;
+  background-image: url("");
+  /* https://c.tenor.com/9GcJRl53R9cAAAAM/ghost-call-of-duty.gif */
+
+  display: flex;
+  margin-top: 100px;
+}
+
+button {
+  background-color:rgb(129, 165, 129, .01) ;
+  border-radius: 40px;
+  font-weight: 900;
+}
